@@ -41,48 +41,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsBVhdJKPxzqZ_K3JrPpr-pt4rat4Ne24',
-    appId: '1:892280081976:web:64eb74fe663ff2658be0cd',
-    messagingSenderId: '892280081976',
-    projectId: 'chat-app-c426e',
-    authDomain: 'chat-app-c426e.firebaseapp.com',
-    storageBucket: 'chat-app-c426e.appspot.com',
-    measurementId: 'G-JNYN7L3BZZ',
+    apiKey: 'AIzaSyCDWQrCwz8Y45_q-dqKIU7qQL5Yy5zp3c4',
+    appId: '1:129014090760:web:cfb7107af4088a16c415bd',
+    messagingSenderId: '129014090760',
+    projectId: 'scholarchatapp-a1c53',
+    authDomain: 'scholarchatapp-a1c53.firebaseapp.com',
+    storageBucket: 'scholarchatapp-a1c53.firebasestorage.app',
+    measurementId: 'G-DP46VZQ1XQ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBoYNL3xi3mO6D6w61TI_cU4UbDKt_LVjo',
-    appId: '1:892280081976:android:a3ba325f5e2dbd078be0cd',
-    messagingSenderId: '892280081976',
-    projectId: 'chat-app-c426e',
-    storageBucket: 'chat-app-c426e.appspot.com',
+    apiKey: 'AIzaSyCAWKFTdIw24k9xjeipj6JzGHeyt4po9Eg',
+    appId: '1:129014090760:android:1896cdb022f0a94bc415bd',
+    messagingSenderId: '129014090760',
+    projectId: 'scholarchatapp-a1c53',
+    storageBucket: 'scholarchatapp-a1c53.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDhqma-ReNdrQ0hjJxapLWOAnPFMQy0xG0',
-    appId: '1:892280081976:ios:49af9d20c92337a98be0cd',
-    messagingSenderId: '892280081976',
-    projectId: 'chat-app-c426e',
-    storageBucket: 'chat-app-c426e.appspot.com',
+    apiKey: 'AIzaSyD1-E8R4dE-yffPulvA3AKAz-iWnikekIA',
+    appId: '1:129014090760:ios:5aee666b493a8d73c415bd',
+    messagingSenderId: '129014090760',
+    projectId: 'scholarchatapp-a1c53',
+    storageBucket: 'scholarchatapp-a1c53.firebasestorage.app',
     iosBundleId: 'com.example.chatApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDhqma-ReNdrQ0hjJxapLWOAnPFMQy0xG0',
-    appId: '1:892280081976:ios:49af9d20c92337a98be0cd',
-    messagingSenderId: '892280081976',
-    projectId: 'chat-app-c426e',
-    storageBucket: 'chat-app-c426e.appspot.com',
+    apiKey: 'AIzaSyD1-E8R4dE-yffPulvA3AKAz-iWnikekIA',
+    appId: '1:129014090760:ios:5aee666b493a8d73c415bd',
+    messagingSenderId: '129014090760',
+    projectId: 'scholarchatapp-a1c53',
+    storageBucket: 'scholarchatapp-a1c53.firebasestorage.app',
     iosBundleId: 'com.example.chatApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDsBVhdJKPxzqZ_K3JrPpr-pt4rat4Ne24',
-    appId: '1:892280081976:web:64ec59c4d2eba7608be0cd',
-    messagingSenderId: '892280081976',
-    projectId: 'chat-app-c426e',
-    authDomain: 'chat-app-c426e.firebaseapp.com',
-    storageBucket: 'chat-app-c426e.appspot.com',
-    measurementId: 'G-8ZZ3NFS29X',
+    apiKey: 'AIzaSyCDWQrCwz8Y45_q-dqKIU7qQL5Yy5zp3c4',
+    appId: '1:129014090760:web:ea25a2f92c90f300c415bd',
+    messagingSenderId: '129014090760',
+    projectId: 'scholarchatapp-a1c53',
+    authDomain: 'scholarchatapp-a1c53.firebaseapp.com',
+    storageBucket: 'scholarchatapp-a1c53.firebasestorage.app',
+    measurementId: 'G-9261K01NPB',
   );
 }
