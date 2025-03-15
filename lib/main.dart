@@ -5,6 +5,8 @@ import 'package:chat_app/screens/register_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
+import 'screens/splash_screen.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
@@ -21,11 +23,12 @@ class ScholarChatApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
+        SplashScreen.id: (context) => const SplashScreen(),
         LoginPage.id: (context) => const LoginPage(),
         RegisterPage.id: (context) => const RegisterPage(),
         ChatPage.id: (context) => ChatPage()
       },
-      initialRoute: LoginPage.id,
+      initialRoute: SplashScreen.id,
     );
   }
 }
