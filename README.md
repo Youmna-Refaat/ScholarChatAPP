@@ -16,6 +16,17 @@
 * Dart SDK (compatible version with Flutter)
 * Firebase account (for Authentication, Firestore, Cloud Messaging)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/splash.png" width="220" />
+  <img src="assets/screenshots/login.png" width="220" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/chat.png" width="220" />
+</p>
+
 ## Installation
 
 ### Step 1: Clone the Repository
